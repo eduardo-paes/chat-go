@@ -1,0 +1,39 @@
+# Go
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj/
+_test/
+_build/
+bin/
+.idea/
+.vscode/
+
+# Go Binary
+myapp
+
+# Node.js
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled binary files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+vendor/
